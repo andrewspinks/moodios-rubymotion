@@ -4,6 +4,7 @@ GEM
     awesome_print_motion (0.1.0)
     bubble-wrap (1.4.0)
     motion-layout (0.0.2)
+    motion-stump (0.3.2)
     motion-testflight (1.5)
     rake (10.1.1)
     teacup (2.1.13)
@@ -16,6 +17,7 @@ DEPENDENCIES
   awesome_print_motion
   bubble-wrap
   motion-layout
+  motion-stump
   motion-testflight
   rake
   teacup

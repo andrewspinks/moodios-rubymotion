@@ -11,7 +11,8 @@ end
 require "awesome_print_motion"
 require 'teacup'
 require 'motion-layout'
-# require 'bubble-wrap'
+require 'bubble-wrap'
+require 'motion-stump'
 
 
 Motion::Project::App.setup do |app|

@@ -8,3 +8,4 @@ gem 'teacup'
 gem 'motion-layout'
 gem "webstub"
 gem 'motion-testflight'
+gem 'motion-stump'
