@@ -8,6 +8,12 @@ begin
 rescue LoadError
 end
 
+require "awesome_print_motion"
+require 'teacup'
+require 'motion-layout'
+# require 'bubble-wrap'
+
+
 Motion::Project::App.setup do |app|
 
   # Use `rake config' to see complete project settings.
